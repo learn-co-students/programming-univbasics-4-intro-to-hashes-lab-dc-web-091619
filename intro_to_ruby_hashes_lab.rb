@@ -13,7 +13,7 @@ def pioneer
 end
 
 def id_generator
-  {:key => "value, i can be any data type" }
+  {:id => 5 }
 end
 
 def my_hash_creator(key, value)
