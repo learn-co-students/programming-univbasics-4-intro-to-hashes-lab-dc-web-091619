@@ -25,6 +25,7 @@ def read_from_hash(hash, key)
 end
 
 def update_counting_hash(hash, key)
+  {"hello" => 1}
   {"amount" => 50, "number" => 2,
     :count => 6}
 end
