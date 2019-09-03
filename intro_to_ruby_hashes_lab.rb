@@ -26,5 +26,7 @@ end
 
 def update_counting_hash(hash, key)
   {hash[key] 
+  if :hash => key
+  else 
     :count => 6}
 end
